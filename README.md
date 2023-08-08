@@ -43,10 +43,12 @@ The purpose of this research is to compare and contrast two sets of car sales da
 ## Data Samples or Snapshots
 
 Sample from Dataset 1 (Car Specifications and Features):
-![Screenshot 2023-08-08 175205](https://github.com/tarun496-oss/Car_sales_analysis/assets/137961701/28930072-dd34-4404-9db1-d29c26fe48f6)
+![Screenshot 2023-08-08 175145](https://github.com/tarun496-oss/Car_sales_analysis/assets/137961701/c215c976-fedc-4126-afcc-0ce5f8153b99)
+
 
 Sample from Dataset 2 (Car Sales):
-![Screenshot 2023-08-08 175145](https://github.com/tarun496-oss/Car_sales_analysis/assets/137961701/9f7c9c05-cada-4aaf-96f3-0452ce475284)
+![Screenshot 2023-08-08 175205](https://github.com/tarun496-oss/Car_sales_analysis/assets/137961701/d751f02f-5654-4995-9c72-c7687de6d071)
+
 
 ## Code Files
 
